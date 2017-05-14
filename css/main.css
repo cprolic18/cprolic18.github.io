@@ -41,3 +41,11 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+blurb p {
+    font-size: 1em;
+}
+
+blurb h1 {
+    font-size: 2em;
+}
