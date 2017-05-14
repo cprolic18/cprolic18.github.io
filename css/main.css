@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("https://github.com/cprolic18/cprolic.github.io/20150918_104729.jpg");
+    background-size: cover;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
