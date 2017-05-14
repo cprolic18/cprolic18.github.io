@@ -48,4 +48,5 @@ blurb p {
 
 blurb h1 {
     font-size: 2em;
+    white-space: nowrap;
 }
