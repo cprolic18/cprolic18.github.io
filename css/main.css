@@ -42,11 +42,11 @@ ul.posts li {
     list-style: none;
 }
 
-container p {
+blurb p {
     font-size: 3em;
 }
 
-container h1 {
+blurb h1 {
     font-size: 2em;
     white-space: nowrap;
 }
