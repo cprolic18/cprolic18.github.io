@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-size: cover;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -43,11 +42,11 @@ ul.posts li {
     list-style: none;
 }
 
-blurb p {
-    font-size: 1em;
+container p {
+    font-size: 3em;
 }
 
-blurb h1 {
+container h1 {
     font-size: 2em;
     white-space: nowrap;
 }
