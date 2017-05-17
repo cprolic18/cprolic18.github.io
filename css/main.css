@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("https://github.com/cprolic18/cprolic18.github.io/20150918_104729.jpg");
     background-size: cover;
 }
 nav ul, footer ul {
@@ -35,8 +34,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
