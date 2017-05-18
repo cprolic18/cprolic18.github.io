@@ -35,10 +35,10 @@ ul.posts li {
     list-style: none;
 }
 
-h1.blurb {
+h1 {
   font-size: 6em;
 }
 
-p.blurb {
+p {
   font-size: 2em;
 }
