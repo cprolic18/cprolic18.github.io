@@ -23,8 +23,8 @@ h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p.default {
-    font-size: 3em;
+p {
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
@@ -40,4 +40,12 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+p.container {
+  font-size: 3em;
+}
+
+h1.container {
+  font-size: 2em;
 }
