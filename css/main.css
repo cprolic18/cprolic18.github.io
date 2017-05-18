@@ -24,7 +24,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1em;
+    font-size: 3em;
     line-height: 1.4em;
     color: #333;
 }
@@ -40,13 +40,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-blurb p {
-    font-size: 3em;
-}
-
-blurb h1 {
-    font-size: 2em;
-    white-space: nowrap;
 }
